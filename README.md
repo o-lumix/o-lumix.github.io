@@ -17,13 +17,9 @@
 
 See the [open issues](https://github.com/o-lumix/site/issues) for a list of proposed features (and known issues).
 
-### Creating A Pull Request
 
 
 
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/o-lumix/site/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
@@ -32,6 +28,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/o-lumix/site
 ## Acknowledgements
 
 * [Lumix](https://github.com/o-lumix)
+
+## License
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
